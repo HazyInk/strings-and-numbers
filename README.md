@@ -1,7 +1,7 @@
-#Strings and Numbers
+# Strings and Numbers
 - Author [Reilly Wooldridge](https://github.com/HazyInk)
 
-#Code Journal
+# Code Journal
 - I over thought this activity way to much it was alot easier then what i was thinking.
 - It was very stressful to try getting it to work but i ended up figuring it out using the MDN website and praying.
 
